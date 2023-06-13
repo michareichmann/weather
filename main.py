@@ -1,4 +1,4 @@
-from src.data import Data
+from src.plot import *
 
 
 if __name__ == '__main__':
